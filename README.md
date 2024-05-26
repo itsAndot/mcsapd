@@ -1,7 +1,7 @@
 # 🚔 Panel Policial de SA:MP
 
 ## Descripción
-Este proyecto es un panel policial para SA:MP que permite a los usuarios de la facción policial acceder mediante un inicio de sesión. El panel incluye varias secciones como inicio, búsqueda de antecedentes, lista de policías y logs de antecedentes.
+Este proyecto es un panel policial para SA:MP de MVRDA CITY ROLEPLAY, permite a los usuarios de la facción policial acceder mediante un inicio de sesión. El panel incluye varias secciones como inicio, búsqueda de antecedentes, lista de policías y logs de antecedentes.
 
 ## Características
 - 🔐 **Inicio de sesión**: Acceso seguro para los miembros de la facción.
